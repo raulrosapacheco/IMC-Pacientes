@@ -1,4 +1,4 @@
-# <font>Projeto: Integração Linguagem Python e SQL para Análise de Dados</font>
+# <font>Classificação de Pacientes por IMC, utilizando Integração Linguagem Python e SQL para Análise de Dados</font>
 <font>Fonte de Dados: https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database<br><br> O dataset PIMA possui dados de pacientes quem possuem ou não diabetes. Nesse projeto iremos extrair uma amostra de dados de pacientes com mais de 45 anos e criar uma nova coluna indicando se o paciente está abaixo do peso, peso normal, sobrepeso ou obeso.
 
 1 - Os dados serão carregados em Liguagem Python; 
